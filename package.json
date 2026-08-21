@@ -1,0 +1,16 @@
+{
+  "name": "ego",
+  "version": "1.0.0",
+  "private": true,
+  "main": "App.jsx",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~53.0.0",
+    "react": "19.0.0",
+    "react-native": "0.79.2"
+  }
+}
