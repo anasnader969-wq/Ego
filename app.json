@@ -1,1 +1,12 @@
-
+{
+  "expo": {
+    "name": "Ego",
+    "slug": "ego",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.anasnader.ego",
+      "versionCode": 1
+    }
+  }
+}
